@@ -1,0 +1,11 @@
+{
+	"fields": {
+        "summary": "Testing the name with Bug",
+        "issuetype": {
+            "name": "Bug"
+        },
+        "project": {
+            "key": "JWA"
+        }
+    }
+}
